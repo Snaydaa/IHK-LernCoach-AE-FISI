@@ -1,1 +1,4 @@
 schluessel.env
+.idea/
+out/
+bin/
